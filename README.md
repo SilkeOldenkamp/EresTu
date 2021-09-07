@@ -14,3 +14,9 @@ A template for the PRJ4 course showcasing the following elements:
 - Tabbed navigation (https://getbootstrap.com/docs/5.1/components/navs-tabs/)
 - A map using Leaflet (https://leafletjs.com)
 - A static calendar using tables (https://getbootstrap.com/docs/5.1/content/tables/)
+
+Visit the website at (https://buas-media-interactive.github.io/prj4-cotravel/)
+
+This website &copy; Breda University of Applied Sciences 2021-2022
+
+All images &copy; Raphaël Velt
