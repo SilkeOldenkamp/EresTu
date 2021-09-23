@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html class="h-100" lang="en">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -26,7 +26,7 @@
 
     <title>COTRAVEL, covid-proof travel | Our destinations</title>
   </head>
-  <body>
+  <body class="h-100 d-flex flex-column">
 
     <!-- This is the navigation bar, see https://getbootstrap.com/docs/5.1/components/navbar/ -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light" id="top">
@@ -110,7 +110,7 @@
       <div id="map" class="w-100 my-2"></div>
 
       <!-- This is where details on each destination will be -->
-      <div class="tab-content">
+      <div class="tab-content mb-5">
         <!-- The destination panes start hidden, but will be made visible when clicking on a destination -->
         <div class="tab-pane fade" id="argentina" role="tabpanel" aria-labelledby="argentina-tab">
           <div class="bg-light bg-gradient fw-bold py-4 text-center">
@@ -224,13 +224,8 @@
     <!-- Calling JavaScript code to initialize the map and make it interactive. -->
     <script src="js/map.js"></script>
     
-    <!-- This horizontal rule ensures that the bottom of the page doesn't end up hidden by the footer -->
-    <div class="container">
-      <hr class="my-5">
-    </div>
-
     <!-- Footer -->
-    <footer class="bg-dark text-light fixed-bottom shadow-lg">
+    <footer class="mt-auto bg-dark text-light shadow-lg">
       <div class="container pt-3 text-end">
         <p class="">&copy; Breda University of Applied Sciences 2021-2022</p>
       </div>
