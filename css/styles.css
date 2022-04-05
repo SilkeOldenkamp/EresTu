@@ -11,7 +11,7 @@ body {
 }
 
 .text-erestu{
-	color: #D6F5BF;
+	color: #BCA281;
 }
 
 .hero-header {
@@ -38,12 +38,12 @@ body {
 }
 
 .week-table td:not(.inactive-day):hover {
-	background: #e61b72;
+	background: #F9F2EA;
 	color: white;
 }
 
 td.selected-day {
-	background: #35a8e0;
+	background: #999373;
 	color: white;
 }
 
